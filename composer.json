@@ -1,0 +1,11 @@
+{
+  "name": "cloudaziz/learning-plugin",
+  "description": "Learning WordPress Plugin Development",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "LearningPlugin\\": "src/"
+    }
+  }
+}
