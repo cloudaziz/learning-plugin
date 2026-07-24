@@ -1,0 +1,18 @@
+{
+  "name": "cloudaziz/learning-plugin",
+  "description": "A WordPress CRUD Plugin built to learn WordPress Core.",
+  "type": "project",
+  "version": "1.0.0",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "LearningPlugin\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Md Abdul Aziz"
+    }
+  ],
+  "require": {}
+}
